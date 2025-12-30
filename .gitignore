@@ -1,0 +1,36 @@
+# Ignorer l'environnement virtuel
+venv/
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorer les fichiers spécifiques à l'IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignorer les fichiers de configuration locaux
+.env
+.env.local
+
+# Ignorer les fichiers de dépendances
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorer les fichiers de build
+build/
+dist/
+
+# Ignorer les fichiers de coverage
+.coverage
+*.cover
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers de système
+.DS_Store
+Thumbs.db
