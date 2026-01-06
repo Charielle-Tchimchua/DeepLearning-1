@@ -1,0 +1,14 @@
+artifact_uri: file:///home/line_charie/mnist_keras_project/mlruns/0/1a269b4fa7a2465aba4beb68c95f864b/artifacts
+end_time: 1767735817827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a269b4fa7a2465aba4beb68c95f864b
+run_name: indecisive-moose-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767735817704
+status: 3
+tags: []
+user_id: line_charie

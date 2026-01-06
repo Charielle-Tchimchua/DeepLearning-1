@@ -1,0 +1,14 @@
+artifact_uri: file:///home/line_charie/mnist_keras_project/mlruns/0/f9dcea0d07894572bc9983153666b00e/artifacts
+end_time: 1767736089544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9dcea0d07894572bc9983153666b00e
+run_name: crawling-crab-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767736089453
+status: 3
+tags: []
+user_id: line_charie
